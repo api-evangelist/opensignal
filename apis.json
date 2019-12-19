@@ -1,0 +1,76 @@
+{
+    "name": "OpenSignal",
+    "description": "The OpenSignal app helps avoid the everyday pain of poor connectivity. It???s a signal-toolkit that shows you how to get a better connection instantly, find nearby free Wifi hotspots and view signal maps so that you know which network offers the best cov...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1458-opensignal.jpg",
+    "tags": [
+        "have api",
+        "locations",
+        "networks",
+        "target",
+        "telecommunications",
+        "wifi"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/opensignal\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenSignal",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1458-opensignal.jpg",
+            "humanURL": "http:\/\/opensignal.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opensignal-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/opensignal-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": " http:\/\/api.opensignal.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/opensignal.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/opensignalmaps"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/opensignalmaps"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/developer.opensignal.com"
+        },
+        {
+            "type": "Email",
+            "url": "hi@opensignal.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/opensignal"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/opensignal"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/opensignal.com\/"
+        }
+    ]
+}
